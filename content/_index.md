@@ -4,7 +4,7 @@ math=true
 +++
 
 
-{{< figure class="avatar" src="/headshot2.jpeg" alt="avatar">}}
+{{< figure class="avatar" src="/headshot1_noir.jpeg" alt="avatar">}}
 
 
 I am a Research Fellow at the [University of Melbourne](https://physics.unimelb.edu.au/). 

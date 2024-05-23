@@ -1,12 +1,14 @@
 +++
-title = "publications"
+title = "research"
 +++
 
 
 
-## Publications
+## Research
 
-A list of accepted, refereed publications (12 total, 9 first author) can be found on [arXiv](https://arxiv.org/search/?query=kimpson&searchtype=all&source=header) or [ADS](https://ui.adsabs.harvard.edu/search/q=kimpson&sort=date%20desc%2C%20bibcode%20desc&p_=0) 
+A list of peer-reviewed publications (12 total, 9 first author) can be found on [arXiv](https://arxiv.org/search/?query=kimpson&searchtype=all&source=header) or [ADS](https://ui.adsabs.harvard.edu/search/q=kimpson&sort=date%20desc%2C%20bibcode%20desc&p_=0) 
+
+---
 
 I also maintain a list below. In reverse-chronological order:
 
@@ -33,11 +35,11 @@ I also maintain a list below. In reverse-chronological order:
 2. **T. Kimpson**, K. Wu, S. Zane : *"Spatial Dispersion of light rays propagating through a plasma in Kerr spacetime"*. MNRAS, 2019, [doi:10.1093/mnras/stz138](https://academic.oup.com/mnras/article/484/2/2411/5289610)
 
 1. **T. Kimpson**, M. Spera, M. Mapelli, B. Ziosi : *"Spatial Dispersion of light rays propagating through a plasma in Kerr spacetime"*. MNRAS, 2016, [doi:10.1093/mnras/stw2085](https://doi.org/10.1093/mnras/stw2085)
-{: reversed="reversed"}
+
 
 ## Open source software
 
-I am a contributor on the following open source software packages
+I am a contributor to the following open source software packages
 
 2. M. Klower, et al. (incl. **T. Kimpson**) : *"SpeedyWeather.jl"*.  [juliahub.com/ui/Packages/SpeedyWeather](https://juliahub.com/ui/Packages/SpeedyWeather/S62uU/0.4.0)
 
